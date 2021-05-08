@@ -26,8 +26,8 @@ Multilang.dev Project
   * Slack으로 내보내기
   
 * 서비스 도메인
-  * www.multilang.dev -> lending 및 소개
-  * console.multilang.dev -> 사용자의 관리 페이지
+  * <a href="www.multilang.dev">www.multilang.dev</a> -> lending 및 소개
+  * <a href="console.multilang.dev">console.multilang.dev</a> -> 사용자의 관리 페이지
   
 * 서비스 지원 언어
   1. 한국어
